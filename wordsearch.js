@@ -32,4 +32,4 @@ const wordSearch = (letters, word) => {
     }
 }
 
-module.exports = wordSearch
+module.exports = wordSearch;
